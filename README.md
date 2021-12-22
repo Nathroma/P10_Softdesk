@@ -8,7 +8,7 @@ Documentation de l'API : (https://documenter.getpostman.com/view/17390561/UVRDEk
 
 Récupérez l'ensemble du projet :
 
-`git clone https://github.com/Nathroma/P10_Soft_Desk/`
+`git clone https://github.com/Nathroma/P10_Softdesk`
 
 Pour pouvoir lancer le programme, créez un environnement virtuel :
 
