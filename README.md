@@ -1,4 +1,5 @@
-#SoftDesk
+# P10_Softdesk
+
 
 Cette API Rest est concue afin d'assurer un suivi de problèmes sur plusieurs platformes
 
@@ -8,7 +9,7 @@ Documentation de l'API : (https://documenter.getpostman.com/view/17390561/UVRDEk
 
 Récupérez l'ensemble du projet :
 
-`git clone https://github.com/Nathroma/P10_Softdesk`
+`git clone https://github.com/Nathroma/P10_Soft_Desk/`
 
 Pour pouvoir lancer le programme, créez un environnement virtuel :
 
@@ -25,6 +26,7 @@ Installez les packages requis à l'aide de la commande suivante :
 Faire les migrations si nécéssaire :
 
 `softdesk\manage.py makemigrations`
+
 `softdesk\manage.py migrate`
 
 Puis lancez le serveur en utilisant la commande:
